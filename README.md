@@ -5,7 +5,7 @@ Aplikacija za praćenje smena (Android 8.0 ili noviji).
 ## Preuzimanje
 
 Najnovija verzija je uvek ovde:
-**https://github.com/Sogli031/smene-app/releases/latest**
+**https://github.com/Sogli031/rad/releases/latest**
 
 Pod „Assets" preuzmi fajl `smene-app-vX.Y.apk`.
 
@@ -27,7 +27,7 @@ Ne briši aplikaciju pre ažuriranja, jer se time brišu i podaci.
 Ako koristiš [Obtainium](https://github.com/ImranR98/Obtainium/releases/latest):
 
 1. U Obtainium-u dodirni **Add App**.
-2. U polje **App Source URL** upiši: `https://github.com/Sogli031/smene-app`
+2. U polje **App Source URL** upiši: `https://github.com/Sogli031/rad`
 3. Dodirni **Add**. Obtainium preuzima i instalira najnoviju verziju.
 4. Ubuduće će te Obtainium obavestiti kad izađe nova verzija, a ažuriraš jednim dodirom.
 
